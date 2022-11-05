@@ -5,6 +5,7 @@
 _Arvid Lundervold, BSc MD PhD_  v.2022-11-05<br>
 
 
+![img](assets/lundervold_CBF_regulering_fMRI_20221117.png)
 
 ##### Thursday, November 17th 2022:
 
