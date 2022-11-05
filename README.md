@@ -1,6 +1,6 @@
 # CBF regulation and BOLD fMRI
 
-#### Two lectures for the CME course "Hjernens blod- og væskesirkulasjon" organized by the [Bergen Stroke Research Group](http://unikard.org/bergen-stroke-research-group<br>
+#### Two lectures for the CME course "Hjernens blod- og væskesirkulasjon" organized by the [Bergen Stroke Research Group](http://unikard.org/bergen-stroke-research-group)<br>
 
 _Arvid Lundervold, BSc MD PhD_  v.2022-11-05<br>
 
