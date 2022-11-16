@@ -2,7 +2,7 @@
 
 #### Two lectures for the CME course "[Hjernens blod- og væskesirkulasjon](https://spesialisthelsetjenesten.no/lis/kurs-for-leger-i-spesialisering/hjernens-blod-og-veskesirkulasjon-2022)" organized by the [Bergen Stroke Research Group](http://unikard.org/bergen-stroke-research-group)<br>
 
-_Arvid Lundervold, BSc MD PhD_  v.2022-11-05<br>
+_Arvid Lundervold, BSc MD PhD_  v.2022-11-17<br>
 
 
 ![img](assets/lundervold_CBF_regulering_fMRI_20221117.png)
